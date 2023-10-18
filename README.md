@@ -1,5 +1,4 @@
 ## Hi I'm Alsu
 ## I work in technology stack: Python, PostgreSQL
-## Contact with me:
-  - Usla_2018@mail.ru
-  - Telegram @Usla2021
+## I am currently studying at my mentor's course https://github.com/zhukovsd . 
+## I like to code and cook delicious :)
