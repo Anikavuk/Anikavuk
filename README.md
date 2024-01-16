@@ -1,4 +1,3 @@
 ## Hi I'm Alsu
-## I work in technology stack: Python, PostgreSQL
-## I am currently studying at my mentor's course https://github.com/zhukovsd . 
+## I work in technology stack: Python, PostgreSQL, SQLite, MVC, API, HTTP, SQL
 ## I like to code and cook delicious :)
